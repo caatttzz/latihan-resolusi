@@ -1,0 +1,2 @@
+# latihan-resolusi
+repository latihan
